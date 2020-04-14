@@ -1,0 +1,1 @@
+// class Roof {constructor(x1,y1,x2,y2,x3,y3){var options = {isStatic:true,}this.body = Bodies.rectangle(x1,y1,x2,y2,x3,y3,options);World.add(world,this.body);}display(){push();triangleMode(CENTER);triangle(x1,y1,x2,y2,x3,y3);pop ()}};
